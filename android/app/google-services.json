@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143170925858",
+    "project_id": "patricksnack-e3038",
+    "storage_bucket": "patricksnack-e3038.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143170925858:android:886231ec378f2113e0617b",
+        "android_client_info": {
+          "package_name": "com.example.patrick_snack_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClBgd-ioXCNZxdhYYCYPY8Z45iEByx3Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
